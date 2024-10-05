@@ -1,0 +1,17 @@
+Adobe After Effects v18.1 Windows 64 render log for project “AE Ink c.aep”
+
+Rendering started on 03-05-2024 at 08:30:25
+
+  03-05-2024 08:30:26: Starting composition “Text”.
+
+  Output To: E:\THE JSA STUDIOS\TRAILER\footages\Text.avi    03-05-2024 08:30:31: Finished composition “Text”.
+
+
+  03-05-2024 08:30:31: Starting composition “Main”.
+
+  Output To: E:\THE JSA STUDIOS\TRAILER\footages\2.avi    03-05-2024 08:30:55: Finished composition “Main”.
+
+
+  Total Time Elapsed: 30 Seconds
+Log closed on 03-05-2024 at 08:30:55
+
